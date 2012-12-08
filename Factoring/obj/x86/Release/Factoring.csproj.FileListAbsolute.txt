@@ -1,0 +1,19 @@
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\bin\Release\Factoring.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\bin\Release\Factoring.pdb
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\Factoring.Form1.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\Factoring.Properties.Resources.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\Factoring.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Release\Factoring.pdb
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\Factoring.Form1.resources
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\C#\Factoring\Factoring\bin\Release\QuadraticFactoringCalculator.exe.config
+D:\Projects\C#\Factoring\Factoring\bin\Release\QuadraticFactoringCalculator.exe
+D:\Projects\C#\Factoring\Factoring\bin\Release\QuadraticFactoringCalculator.pdb
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\QuadraticFactoringCalculator.Properties.Resources.resources
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\QuadraticFactoringCalculator.exe
+D:\Projects\C#\Factoring\Factoring\obj\x86\Release\QuadraticFactoringCalculator.pdb

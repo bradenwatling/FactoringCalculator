@@ -1,0 +1,19 @@
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\bin\Debug\Factoring.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\bin\Debug\Factoring.pdb
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\Factoring.Form1.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\Factoring.Properties.Resources.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\Factoring.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\Factoring\obj\x86\Debug\Factoring.pdb
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\Factoring.Form1.resources
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\C#\Factoring\Factoring\bin\Debug\QuadraticFactoringCalculator.exe.config
+D:\Projects\C#\Factoring\Factoring\bin\Debug\QuadraticFactoringCalculator.exe
+D:\Projects\C#\Factoring\Factoring\bin\Debug\QuadraticFactoringCalculator.pdb
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\QuadraticFactoringCalculator.Properties.Resources.resources
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\QuadraticFactoringCalculator.exe
+D:\Projects\C#\Factoring\Factoring\obj\x86\Debug\QuadraticFactoringCalculator.pdb
